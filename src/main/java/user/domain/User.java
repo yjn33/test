@@ -13,8 +13,6 @@ import lombok.Setter;
 @NoArgsConstructor
 public class User
 {
-
-    String dd;
     String id;
     String name;
     String password;
